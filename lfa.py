@@ -1,6 +1,5 @@
 ###########################################################################
-#Task1.py - Letter Frequency Analysis for Substitution Cipher
-#ISEC2000 - Assignment 1, Part 1
+#lfa.py - Letter Frequency Analysis for Substitution Cipher
 #
 #Overview:
 # This program performs letter frequency analysis on ciphertext to help break a substitution cipher. 
@@ -15,7 +14,7 @@
 #  - Allows manual refinement of the substitution table
 #  - Decrypts the ciphertext using both automated and manual mappings
 #
-#Author: Nazriel Al-Hafidz | 21495959
+#Author: Nazriel Al-Hafidz
 ###########################################################################
 
 import sys
