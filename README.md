@@ -29,4 +29,4 @@ This program performs cryptanalysis on substitution ciphertext by:
 ## Usage
 
 ```bash
-python Task1.py intercepted_message.txt
+python lfa.py intercepted_message.txt
